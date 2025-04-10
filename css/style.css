@@ -1,0 +1,45 @@
+h1 {
+    color: cadetblue;
+    background-color: beige;
+    text-align: center;
+
+}
+p {
+    color: cornflowerblue;
+    background-color: bisque;
+}
+#rezaarab {
+    color: darkslategrey;
+    background-color: darkgray;
+}
+.warnasatu {
+    color: blueviolet;
+    background-color: cornflowerblue;
+}
+.warnadua {
+    color: brown;
+    background-color: dimgray;
+}
+.warnatiga {
+    color: hotpink;
+    background-color: black;
+}
+#kotak-satu {
+    height: 100px;
+    width: 100px;
+    background-color: cadetblue;
+    margin-bottom: 10px;
+}
+#kotak-dua {
+    height: 100px;
+    width: 500px;
+    background-color: darkred;
+    margin-bottom: 10px;
+}
+#kotak-tiga {
+    height:100px ;
+    width: 100px;
+    background-color: palevioletred;
+    border-radius: 50%;
+
+}
