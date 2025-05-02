@@ -1,6 +1,7 @@
 *{
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
 }
 .container {
     width: 800px;
@@ -20,6 +21,33 @@
 }
 #navigasi {
     width: 100%;
-    height: 50px;
     background-color: brown;
+}
+#navigasi ul li {
+    padding: 20px;
+    display: inline-block;
+    color: bisque;
+
+}
+#artikel {
+    width: 500px;
+    padding: 20px;
+    background-color: rgb(82, 114, 175);
+    float: left;
+}
+#sidebar {
+    width: 300px;
+    padding: 20px;
+    background: darkgrey;
+    float: right;
+    height: right;
+}
+.clear {
+    clear:both;
+}
+#footer {
+    background: darkslateblue;
+    padding: 20px;
+    text-align: center;
+    color: snow;
 }
